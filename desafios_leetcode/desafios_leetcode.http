@@ -1,0 +1,6 @@
+@desafios_leetcode_HostAddress = http://localhost:5053
+
+GET {{desafios_leetcode_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
